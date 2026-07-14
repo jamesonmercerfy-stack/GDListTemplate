@@ -1,14 +1,18 @@
 {
     "id": 144802897,
-    "name": "EFN Reborn",
-    "author": "Icedagger",
-    "creators": ["Icedagger"],
-    "verifier": "Icedagger",
+    "name": "Efn Rebirth",
+    "author": "IceDagger",
+    "creators": ["IceDagger"],
+    "verifier": "IceDagger",
     "verification": "https://youtu.be/5-vCqnui24A",
     "percentToQualify": 100,
-    "password": "Copyable",
+    "password": "Not Copyable",
     "records": [
         {
+            "user": "placeholder",
+            "link": "https://www.youtube.com/watch?v=YJdCpltq-_k",
+            "percent": 69,
+            "hz": 69420
         }
     ]
 }
