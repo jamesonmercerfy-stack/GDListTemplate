@@ -1,14 +1,18 @@
 {
-    "id": 144804698,
+    "id": 144802897,
     "name": "Crossedover",
     "author": "SmellY",
     "creators": ["SmellY"],
     "verifier": "SmellY",
-    "verification": "https://www.youtube.com/watch?v=8PsZsed-8y8",
+    "verification": "https://youtu.be/8PsZsed-8y8",
     "percentToQualify": 100,
-    "password": "Copyable",
+    "password": "Not Copyable",
     "records": [
         {
+            "user": "placeholder",
+            "link": "https://www.youtube.com/watch?v=YJdCpltq-_k",
+            "percent": 69,
+            "hz": 69420
         }
     ]
 }
