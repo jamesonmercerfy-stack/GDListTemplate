@@ -5,14 +5,14 @@
         "link": "https://www.youtube.com/@Jameessoonn"
     },
     {
-        "role": "admin",
+        "role": "owner",
         "name": "Errorrrzz",
         "link": "https://www.youtube.com/@McSetherton"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "admin",
+        "name": "Shay",
+        "link": ""
     },
     {
         "role": "trial",
