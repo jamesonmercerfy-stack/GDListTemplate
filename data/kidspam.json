@@ -8,9 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
             "user": "Pablo",
             "link": "https://youtu.be/ZVOes0uHpSg?is=v_OhGJnRbzvTq84q",
             "percent": 100,
             "hz": 69420
+        }
     ]
 }
